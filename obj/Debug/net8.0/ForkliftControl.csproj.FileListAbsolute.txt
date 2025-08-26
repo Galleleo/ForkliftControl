@@ -162,3 +162,4 @@
 /Users/galleleo/my-projects/ForkliftControl/bin/Debug/net8.0/frontend/package.json
 /Users/galleleo/my-projects/ForkliftControl/bin/Debug/net8.0/frontend/public/manifest.json
 /Users/galleleo/my-projects/ForkliftControl/bin/Debug/net8.0/frontend/tsconfig.json
+/Users/galleleo/my-projects/ForkliftControl/obj/Debug/net8.0/ForkliftControl.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForkliftControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9529a53a2687bf20fb1c5e033e67c8448138d6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa58672e8a22911be75022eae146dad15feb43b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForkliftControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForkliftControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
